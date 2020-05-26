@@ -1,0 +1,8 @@
+{
+  "squash": false,
+  "build_from": {
+    "armhf": "hassioaddons/base-python-armhf:5.2.0",
+    "aarch64": "hassioaddons/base-python-aarch64:5.2.0"
+  },
+  "args": {}
+}
